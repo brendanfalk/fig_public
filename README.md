@@ -1,6 +1,8 @@
-### Welcome to the Fig tutorial app 
+### Fig Tutorial App 
 
-How to use: `fig tutorial insert_url`
+`fig tutorial insert_url`
+
+
 
 Try editing the tag below and running it by clicking the pear
 
